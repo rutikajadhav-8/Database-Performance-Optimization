@@ -2,8 +2,6 @@
 
 Designed and optimized an e-commerce database using PostgreSQL.
 
----
-
 ## Features
 
 - Database Design
@@ -14,27 +12,19 @@ Designed and optimized an e-commerce database using PostgreSQL.
 - Transactions
 - Backup & Recovery
 
----
-
 ## Technologies
 
 - PostgreSQL
 - SQL
 - pgAdmin
 
----
-
 ## Database Schema 
 
 Customers | Products | Orders | OrderItems
 
----
-
 ## Performance Optimization
 
 Created indexes on frequently queried columns and analyzed execution plans using EXPLAIN ANALYZE.
-
----
 
 ## Transaction Management
 
